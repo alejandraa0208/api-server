@@ -69,11 +69,11 @@ npm install
 
 ## UML
 
-![UML](./assets/Class02.png)
+![UML](./Screenshot%202023-09-21%20at%2012.35.55%20AM.png)
 
 ## Deployed URL
 
-<https://express-server-0ou4.onrender.com>
+<https://api-server-kh6a.onrender.com>
 
 ## Collaborators
 
