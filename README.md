@@ -75,6 +75,17 @@ npm install
 
 <https://api-server-kh6a.onrender.com>
 
+## Lab 4 Code Pairing
+
+Partner: Sydney Pagalan
+
+Takeaway: My code is understandable but there is something in my code preventing all test from passing that we both cant figure out.
+
+My PR link: <https://github.com/sfpagalan/api-server/pull/3>
+
+My partners PR link: <https://github.com/alejandraa0208/api-server/pull/3>
+
+
 ## Collaborators
 
 Jacob Knaack, Chat GPT

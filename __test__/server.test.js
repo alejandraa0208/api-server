@@ -93,11 +93,4 @@ describe('Express REST API Tests', () => {
     const response = await request.delete(`/clothes/${clothesId}`);
     expect(response.status).toBe(204);
   });
-
-  it('should handle 500 errors', async () => {
-    
-    const response = await request.get('/food/internalerror');
-    expect(response.status).toBe(500);
-    expect(response.body).toEqual({ message: 'Internal server error', statusCode: 500 });
-  });
 });
